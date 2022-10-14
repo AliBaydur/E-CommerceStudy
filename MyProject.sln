@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entiti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestUI", "TestUI\TestUI.csproj", "{4A0810D4-D3EA-4939-9A05-E77F8F6DDEFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Coree\Core.csproj", "{27B9E1F5-A26F-4F33-BD86-6C5D4127E372}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Coree\Core.csproj", "{27B9E1F5-A26F-4F33-BD86-6C5D4127E372}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
