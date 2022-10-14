@@ -11,7 +11,7 @@ namespace TestUI
     {
         static void Main(string[] args)
         {
-            //DTO : Data Transformation Object
+            //DTO : Data Transformation Object.
             ProductTest();
             //CategoryTest();
         }
