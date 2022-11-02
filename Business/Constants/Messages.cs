@@ -9,5 +9,7 @@ namespace Business.Constants
         public static string ProductAdded = "Ürün eklendi.";
         public static string ProductNameInvalid = "Ürün ismi geçersiz.";
         public static string ProductError = "Ürün ismi en az 2 karekter olmalıdır.";
+        public static string MaintenanceTime = "Sistem şuan bakımdadır.";
+        public static string ProductListed = "Ürünler listelendi.";
     }
 }
